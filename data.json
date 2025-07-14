@@ -1,0 +1,82 @@
+{
+    "teams": [
+        {
+            "team": "E4A/B/C",
+            "vyhry": 6,
+            "prohry": 1,
+            "body": 19
+        },
+        {
+            "team": "P3B",
+            "vyhry": 2,
+            "prohry": 3,
+            "body": 7
+        },
+        {
+            "team": "E4C",
+            "vyhry": 4,
+            "prohry": 0,
+            "body": 11
+        },
+        {
+            "team": "P3A",
+            "vyhry": 2,
+            "prohry": 1,
+            "body": 5
+        },
+        {
+            "team": "P1A",
+            "vyhry": 3,
+            "prohry": 1,
+            "body": 9
+        },
+        {
+            "team": "P2B",
+            "vyhry": 1,
+            "prohry": 1,
+            "body": 3
+        },
+        {
+            "team": "E2C",
+            "vyhry": 1,
+            "prohry": 4,
+            "body": 4
+        },
+        {
+            "team": "E1B/mix",
+            "vyhry": 1,
+            "prohry": 2,
+            "body": 4
+        },
+        {
+            "team": "S4A",
+            "vyhry": 1,
+            "prohry": 2,
+            "body": 2
+        },
+        {
+            "team": "S2B/mix",
+            "vyhry": 2,
+            "prohry": 0,
+            "body": 4
+        },
+        {
+            "team": "E2B",
+            "vyhry": 0,
+            "prohry": 2,
+            "body": 1
+        },
+        {
+            "team": "P2A",
+            "vyhry": 0,
+            "prohry": 3,
+            "body": 0
+        },
+        {
+            "team": "P1B",
+            "vyhry": 0,
+            "prohry": 3,
+            "body": 0
+        }
+    ]
+}
